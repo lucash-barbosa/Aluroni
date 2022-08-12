@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+body {
+  background-color: #f6f6f6;
+}
+
+* {
+  font-family: 'Italiana', serif;
+  box-sizing: border-box;
+}
+
+#root > main.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
