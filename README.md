@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="screencapture.png" alt="Imagem do Alfood" width="50%">
+  <img src="screencapture.png" alt="Imagem do Aluroni" width="50%">
 </div>
 
 ## 📁 Acesso
