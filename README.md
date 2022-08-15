@@ -12,6 +12,7 @@
 ## 📁 Acesso
 
 É possivel baixar o projeto nesse <a href="https://github.com/lucash-barbosa/Alura-Aluroni/archive/refs/heads/master.zip">link</a>
+ou <a href="https://alura-aluroni.vercel.app">acessar pelo navegador</a>
 
 ## 🛠️ Abrir e rodar o projeto
 
