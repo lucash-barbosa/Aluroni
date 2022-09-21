@@ -3,8 +3,8 @@
 </div>
 
 
-![shild](https://img.shields.io/github/repo-size/lucash-barbosa/Alura-Aluroni)
-![shild](https://img.shields.io/github/last-commit/lucash-barbosa/Alura-Aluroni)
+![shild](https://img.shields.io/github/repo-size/lucash-barbosa/Aluroni)
+![shild](https://img.shields.io/github/last-commit/lucash-barbosa/Aluroni)
 
 > :book: Site de restaurante
 
@@ -14,7 +14,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | Alura-Aluroni
 | :label: Tecnologias | React, typescript, sass
-| :rocket: URL         | <a href="https://alura-aluroni.vercel.app">Alura-Aluroni</a>
+| :rocket: URL         | <a href="https://alura-aluroni.vercel.app">Aluroni</a>
 | :fire: Desafio     | <a href="https://cursos.alura.com.br/course/react-arquivos-estaticos">Arquivos estáticos</a>
                                                   
 ![Alura-Aluroni](screencapture.png#vitrinedev)
@@ -25,7 +25,7 @@ Para acessar o deploy utilize o link abaixo
 [Alura-Aluroni ↗️](https://alura-aluroni.vercel.app)
 
 ## 🛠️ Abrir e rodar o projeto
-- [Baixe o projeto](https://github.com/lucash-barbosa/Alura-Aluroni/archive/refs/heads/master.zip)
+- [Baixe o projeto](https://github.com/lucash-barbosa/Aluroni/archive/refs/heads/master.zip)
   
 - No terminal:
   - `cd Desktop/...` (local do projeto)
