@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Alura-Aluroni</h1>
+	<h1>Aluroni</h1>
 </div>
 
 
