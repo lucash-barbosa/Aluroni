@@ -17,7 +17,7 @@
 | :rocket: URL         | <a href="https://alura-aluroni.vercel.app">Aluroni</a>
 | :fire: Desafio     | <a href="https://cursos.alura.com.br/course/react-arquivos-estaticos">Arquivos estáticos</a>
                                                   
-![Alura-Aluroni](screencapture.png#vitrinedev)
+![Aluroni](screencapture.png#vitrinedev)
 
 ## 🚀 Acesso
 Para acessar o deploy utilize o link abaixo
