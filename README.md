@@ -6,30 +6,31 @@
 ![shild](https://img.shields.io/github/repo-size/lucash-barbosa/Aluroni)
 ![shild](https://img.shields.io/github/last-commit/lucash-barbosa/Aluroni)
 
-> :book: Site de restaurante
+> :book: Site de restaurante com cardápio e recomendações de pratos
 
 <br>
-
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | Alura-Aluroni
-| :label: Tecnologias | React, typescript, sass
-| :rocket: URL         | <a href="https://alura-aluroni.vercel.app">Aluroni</a>
-| :fire: Desafio     | <a href="https://cursos.alura.com.br/course/react-arquivos-estaticos">Arquivos estáticos</a>
                                                   
-![Aluroni](screencapture.png#vitrinedev)
+![](https://github.com/lucash-barbosa/Aluroni/blob/master/screencapture.png)
+
+## Técnologias utilizadas
+- React
+- React-router-dom
+- Typescript
+- SCSS
 
 ## 🚀 Acesso
 Para acessar o deploy utilize o link abaixo
 <br>
 [Alura-Aluroni ↗️](https://alura-aluroni.vercel.app)
 
-## 🛠️ Abrir e rodar o projeto
-- [Baixe o projeto](https://github.com/lucash-barbosa/Aluroni/archive/refs/heads/master.zip)
-  
-- No terminal:
-  - `cd Desktop/...` (local do projeto)
-  - `npm install`
-  - `npm start`
 
-- Abra o programa no navegador pelo link <a href="http://localhost:3000/">http://localhost:3000/</a>
+## 🛠️ Abrir e rodar o projeto
+
+### Setup de ambiente
+- [Node LTS](https://nodejs.org/en/)
+
+### Rodar o projeto
+- Clone o projeto ```git clone https://github.com/lucash-barbosa/Aluroni.git```
+- Rode ```npm install```
+- Rode ```npm start```
+- Abra o projeto no navegador pelo link <a href="http://localhost:3000/">http://localhost:3000/</a>
